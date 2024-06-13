@@ -1,6 +1,6 @@
-# advv_basics
+# Quiz_App
 
-A new Flutter project.
+A new Flutter project. With a different questions and answers on multiple screens.
 
 ## Getting Started
 
